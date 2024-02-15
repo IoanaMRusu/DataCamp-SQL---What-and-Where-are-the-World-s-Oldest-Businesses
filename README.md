@@ -88,4 +88,22 @@ This comprehensive research project involved compiling a dataset with informatio
 </tbody>
 </table>
 
+# Key Findings
+● **Founding Years**
+The dataset spans business founding years from 578 to 1999, showcasing the longevity of these enterprises.
+● **Businesses Before 1000**
+Six businesses in the dataset were founded before 1000, with the oldest dating back to 578. 
+● **Categories and Detail**
+Categories of these businesses were explored, providing a detailed look at the types of enterprises that endured for over a millennium.
+● **Common Business Categories**
+"Banking & Finance" is the most common category among the oldest businesses globally.
+● **Oldest Business by Continent**
+The oldest businesses on each continent were identified, revealing historical trends and timelines.
+● **Comprehensive Dataset**
+Tables were joined to create a comprehensive dataset for more in-depth analysis, combining information on the business, founding year, category, country, and continent.
+● **Categories by Continent**
+Counts of businesses in each continent and category were examined, shedding light on the distribution of business types across different regions.
+● **Filtered Results**
+The analysis was refined to focus on continent/category pairs with a count greater than 5, providing a more manageable view of significant trends.
+
 # Visualization
