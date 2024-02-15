@@ -6,7 +6,7 @@ In this project, we analyze world oldest businesses that are still being today, 
 
 This comprehensive research project involved compiling a dataset with information on the founding years, categories, countries, and continents of these venerable establishments. Our analysis is based on three key tables: "categories," "countries," and "businesses." These tables provide insights into the diverse array of businesses that have managed to navigate through centuries of change and evolution.
 
-<h3 id="categories"><code>categories</code></h3>
+<h3 id="categories"><code>businesses</code></h3>
 <table>
 <thead>
 <tr>
