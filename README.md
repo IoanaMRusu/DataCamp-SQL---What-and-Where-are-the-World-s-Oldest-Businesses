@@ -89,9 +89,9 @@ This comprehensive research project involved compiling a dataset with informatio
 </table>
 
 # Key Findings
-● **Founding Years**
-The dataset spans business founding years from 578 to 1999, showcasing the longevity of these enterprises.
-● **Businesses Before 1000**
+* **Founding Years** 
+The dataset spans business founding years from 578 to 1999, showcasing the longevity of these enterprises. 
+* **Businesses Before 1000** 
 Six businesses in the dataset were founded before 1000, with the oldest dating back to 578. 
 ● **Categories and Detail**
 Categories of these businesses were explored, providing a detailed look at the types of enterprises that endured for over a millennium.
