@@ -1,8 +1,6 @@
 # World Oldest Businesses
 In this project, we analyze world oldest businesses that are still being today, almost in every country. An important part of business is planning for the future and ensuring that the company survives changing market conditions. Some businesses do this really well and last for hundreds of years.
-
 ![WorldOldestBusinesses](https://github.com/IoanaMRusu/DataCampSQL---World-Oldest-Businesses/assets/144055123/2423c624-862b-433f-9515-9ae08126c21d)
-
 # Data and Tables
 *https://www.BusinessFinancing.co.uk*
 
